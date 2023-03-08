@@ -10,6 +10,7 @@ microservices are good and are blazingly fast.
 they're really secure and they make developers lives productive like putting a coin to a piggy bank and imagining what you can achieve.
 yeah having microservice architecture than monollithic will save energy.
 not to mention the tracking of users in the command line on who is making those requests.
+time to learn concurrency i guess.
 
 
 Well...its time to try other languages and frameworks.
