@@ -12,5 +12,8 @@ yeah having microservice architecture than monollithic will save energy.
 not to mention the tracking of users in the command line on who is making those requests.
 time to learn concurrency i guess.
 
+ipicked micro frameworks because it makes me very productive.
+literally productive.
+i meant your curiosity will show up from nowhere.
 
 Well...its time to try other languages and frameworks.
